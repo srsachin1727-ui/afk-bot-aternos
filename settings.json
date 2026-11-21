@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pappukiduniya.aternos.me",
-    "port": 62220,
-    "version": "26.3"
+    "ip": "PappukiDuniya-tlSv.aternos.me",
+    "port": 41162,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
